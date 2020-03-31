@@ -1,0 +1,22 @@
+{
+  "name": "bcn-client",
+  "version": "1.0.0",
+  "description": "Cliente Banco Central Nicaragua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pa3ck/Node-BCN.git"
+  },
+  "author": "Patrick Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pa3ck/Node-BCN/issues"
+  },
+  "homepage": "https://github.com/Pa3ck/Node-BCN#readme",
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
